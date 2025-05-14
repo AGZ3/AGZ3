@@ -1,6 +1,6 @@
 <div align="center">
     <img 
-      src="https://64.media.tumblr.com/1e00832682b54c0a74cb76745a1c97e0/tumblr_p0pkt5RNWE1r7jvayo7_540.gifv" 
+      src="https://i.pinimg.com/originals/06/be/df/06bedfb3ed400da352159a4e4807645d.gif" 
       alt="Banner GIF" 
       style="height: 150px; width: 100%; object-fit: cover; object-position: center;"
     />
