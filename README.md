@@ -1,6 +1,4 @@
-<img align="left" height="250" src="https://miro.medium.com/v2/resize:fit:996/1*N4fgyKjLGk2oOkZPeeKuTg.gif"  />
 
-###
 
 <h1 align="left">👋 Hi, I'm Alec!</h1>
 
@@ -41,6 +39,10 @@
 ###
 
 <h6 align="left">Hosting/SaaS</h6>
+
+###
+
+<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:996/1*N4fgyKjLGk2oOkZPeeKuTg.gif"  />
 
 ###
 
