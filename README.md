@@ -1,4 +1,10 @@
-
+<div align="center">
+    <img 
+      src="https://64.media.tumblr.com/1e00832682b54c0a74cb76745a1c97e0/tumblr_p0pkt5RNWE1r7jvayo7_540.gifv" 
+      alt="Banner GIF" 
+      style="height: 150px; width: 100%; object-fit: cover; object-position: center;"
+    />
+</div> <br>
 
 <h1 align="left">👋 Hi, I'm Alec!</h1>
 
@@ -106,7 +112,7 @@
 
 ###
 
-<h2 align="left">🖥 Recent Project : MyFigureFeed</h2>
+<h2 align="left">🖥 Recent Project : <img src="assets/logo.png" height="20" /> MyFigureFeed</h2>
 
 ###
 
@@ -116,7 +122,7 @@
 
 ###
 
-<p align="center">MyFigureFeed is an interactive discussion board focused on sharing user's love and excitement for Action Figures across all categories! Users can post, upvote, and comment as they interact with the community and engage in discussion surrounding new releases, figure showcases, and more. This app implements Vite and ReactJS to create an engaging and clean UI designed to put full focus on posts and user engagement. The backend database is powered by supabase, and the app is hosted by Netlify.</p>
+<p align="center"> <a href="https://myfigurefeed.netlify.app/" target="blank"> MyFigureFeed</a> is an interactive discussion board focused on sharing user's love and excitement for Action Figures across all categories! Users can post, upvote, and comment as they interact with the community and engage in discussion surrounding new releases, figure showcases, and more. This app implements Vite and ReactJS to create an engaging and clean UI designed to put full focus on posts and user engagement. The backend database is powered by supabase, and the app is hosted by Netlify.</p>
 
 ###
 
@@ -124,7 +130,9 @@
 
 ###
 
-<p align="left">🚀 Leveling up my full-stack skills (React, Vite, Supabase, Node.js).<br><br>🧠 Exploring AI/ML applications (TensorFlow, Scikit-learn, OpenAI API).<br><br>🎨 Designing scalable backends and intuitive UIs.</p>
+- 🚀 Leveling up my full-stack skills (React, Vite, Supabase, Node.js).
+- 🧠 Exploring AI/ML applications (TensorFlow, Scikit-learn, OpenAI API).
+- 🎨 Designing scalable backends and intuitive UIs.
 
 ###
 
@@ -133,7 +141,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGZ3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AGZ3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AGZ3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
