@@ -2,7 +2,7 @@
     <img 
       src="assets/intro.gif" 
       alt="Banner GIF" 
-      style="height: 400px; width: 100%; object-fit: cover; object-position: center;"
+      style="height: 200px; width: 100%; object-fit: cover; object-position: center;"
     />
 </div> <br>
 
