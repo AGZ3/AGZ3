@@ -1,8 +1,8 @@
 <div align="center">
     <img 
-      src="https://i.pinimg.com/originals/06/be/df/06bedfb3ed400da352159a4e4807645d.gif" 
+      src="assets/intro.gif" 
       alt="Banner GIF" 
-      style="height: 150px; width: 100%; object-fit: cover; object-position: center;"
+      style="height: 400px; width: 100%; object-fit: cover; object-position: center;"
     />
 </div> <br>
 
